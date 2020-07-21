@@ -8,3 +8,4 @@
 - [你的Tree-Shaking并没什么卵用](https://segmentfault.com/a/1190000012794598)
 - [Tree-Shaking性能优化实践 - 原理篇](https://juejin.im/post/5a4dc842518825698e7279a9)
 - [Tree-Shaking性能优化实践 - 实践篇](https://juejin.im/post/5a4dca1d518825128654fa78)
+- [webpack多页面打包](https://www.cnblogs.com/leinov/p/9932443.html)
