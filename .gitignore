@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+npm-debug.log
+npm-debug.log.*
+thumbs.db
+!.gitkeep
+package-lock.json
+yarn-error.log
+yarn-lock.json
+yarn.lock
