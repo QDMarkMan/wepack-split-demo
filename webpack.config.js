@@ -19,13 +19,13 @@ module.exports = {
           loader: 'babel-loader'
         }
       ]
-    },
-    devServer:{
-      contentBase: path.join(__dirname),
-      compress: true,
-      inline: true,
-      host: '127.0.0.1',
-      port: 8001,
-      open: false
     }
+    // devServer:{
+    //   contentBase: path.join(__dirname),
+    //   compress: true,
+    //   inline: true,
+    //   host: '127.0.0.1',
+    //   port: 8001,
+    //   open: false
+    // }
 }

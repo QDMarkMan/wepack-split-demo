@@ -11,6 +11,8 @@
 - [webpack多页面打包](https://www.cnblogs.com/leinov/p/9932443.html)
 - [探索webpack5新特性Module-federation](https://juejin.im/post/5e9eb3de6fb9a03c7d3d1647)
 - [Module Federation](https://webpack.js.org/concepts/module-federation/)
+- [webpack-5-module-federation](https://indepth.dev/webpack-5-module-federation-a-game-changer-in-javascript-architecture/)
+- [module-federation-examples](https://github.com/module-federation/module-federation-examples)
 ## PPT
 
 ### 公共的代码如何处理 ?
