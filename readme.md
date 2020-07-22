@@ -9,3 +9,15 @@
 - [Tree-Shaking性能优化实践 - 原理篇](https://juejin.im/post/5a4dc842518825698e7279a9)
 - [Tree-Shaking性能优化实践 - 实践篇](https://juejin.im/post/5a4dca1d518825128654fa78)
 - [webpack多页面打包](https://www.cnblogs.com/leinov/p/9932443.html)
+
+
+## PPT
+
+### 公共的代码如何处理 ?
+- `util.js`
+- `util` 模块
+- 组件化
+- `NPM` package
+- 按需加载
+
+
