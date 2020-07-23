@@ -6,11 +6,12 @@ module.exports = {
     cache: false,
     entry: path.resolve(__dirname, './src/index.js'),
     output: {
+      filename: 'main.js',
       publicPath: "http://localhost:3000/"
     },
     devtool: "source-map",
     resolve: {
-        extensions: ['.js', '.jsx']
+      extensions: ['.js', '.jsx']
     },
     module: {
       rules: [
@@ -18,7 +19,7 @@ module.exports = {
           test: /bootstrap\.js$/,
           loader: "bundle-loader",
           options: {
-            lazy: false,
+            lazy: true,
           }
         },
         {

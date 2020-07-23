@@ -14,6 +14,7 @@
 - [webpack-5-module-federation](https://indepth.dev/webpack-5-module-federation-a-game-changer-in-javascript-architecture/)
 - [module-federation-examples](https://github.com/module-federation/module-federation-examples)
 - [Module Federation. Advanced API in Webpack 5.0.0-beta.17](https://medium.com/dev-genius/module-federation-advanced-api-inwebpack-5-0-0-beta-17-71cd4d42e534)
+- [Webpack 新功能 Module Federation 深入解析](https://developer.aliyun.com/article/755252)
 ## PPT
 
 ### 公共的代码如何处理 ?
