@@ -25,7 +25,7 @@ module.exports = {
       compress: true,
       inline: true,
       host: '127.0.0.1',
-      port: 3000,
+      port: 3002,
       open: false
     }
 }

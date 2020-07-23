@@ -1,5 +1,5 @@
 {
-  "name": "module-federation-demo",
+  "name": "@module-federation-demo/app",
   "version": "1.0.0",
   "description": "webpack demo project",
   "main": "index.js",
@@ -15,8 +15,8 @@
     "@babel/preset-env": "^7.10.4",
     "@babel/preset-react": "^7.10.4",
     "babel-loader": "^8.1.0",
-    "html-webpack-plugin": "^4.3.0",
-    "lerna": "^3.22.1",
+    "bundle-loader": "^0.5.6",
+    "html-webpack-plugin": "git://github.com/ScriptedAlchemy/html-webpack-plugin#master",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-loader": "^2.4.7",
